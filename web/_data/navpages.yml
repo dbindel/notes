@@ -1,0 +1,6 @@
+- link: index
+  name: Home
+- link: syllabus
+  name: Syllabus
+- link: schedule
+  name: Schedule

@@ -1,0 +1,12 @@
+title: David Bindel
+email: bindel@cornell.edu
+description: Notebooks
+baseurl: "https://www.cs.cornell.edu/~bindel/"
+url: "notebook/"
+
+encoding: utf-8
+timezone: America/New_York
+
+exclude: ["Rakefile"]
+
+markdown: kramdown
